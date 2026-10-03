@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+yt-dlp
+anthropic
+AQ.Ab8RN6J7hVr8Lt_dh9CWB41-bMpBU_lp8PrXhZIz_zDZkUz21w
